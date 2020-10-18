@@ -7,7 +7,7 @@ function AboutMe() {
   return (
     <div style={{textAlign:"center"}}>
       <Header/>
-      <img src={teo} alt="Picture of teo" style={{height:"250px", margin:"10px"}}/>
+      <img src={teo} alt="Pictureofteo" style={{height:"250px", margin:"10px"}}/>
       <p style={{color:"white", fontSize:"35px", display:"inline-flex" }}>I am a full stack developer. <br/>I like learning about the frontend development 
       and <br/> also like to to learn new skills in programming.
       </p>
