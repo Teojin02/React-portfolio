@@ -27,7 +27,6 @@ function Project () {
 
             <h1>Basketball player stats</h1>
             <p><a href="https://github.com/Teojin02/basketball-player-stats.git">Basketball player stats</a></p>
-            <p><a href=""></a></p>
             <img src={BasketballStats} alt="Basektballstats" style={{height:"400px"}} />
 
             <h1>Basketball Questions</h1>
